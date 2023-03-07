@@ -1,6 +1,4 @@
-# Effects_of_Climate_Change_on_Natural_Disasters
-
-#Abstract of the project: 
+# Abstract of the project: 
 
 Climate change has created a series of adverse effects on our planet. Is it causing an effect on the frequency and severity of natural disasters across the globe? 
 If so, can governments save human lives and money by reducing climate change causes? Our carbon footprint harms the environment we live in as it is one of the main 
