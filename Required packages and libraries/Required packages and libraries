@@ -1,0 +1,15 @@
+# Required packages:
+
+!pip install -q geopandas
+!pip install -q jsonschema==3.2
+
+
+
+# Required libraries:
+
+import pandas as pd
+import altair as alt
+import numpy as np
+import re
+import geopandas as gpd
+from IPython.display import display, HTML
